@@ -1,0 +1,4 @@
+name: icecream
+type: theme
+core_version_requirement: ^10
+base theme: false
